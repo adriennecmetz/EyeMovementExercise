@@ -1,6 +1,7 @@
 # EyeMovementExercise
 
 <img src "eyes_github.png" width='300'/>
+
 Javascript Eye Movement
 Professional Certificate in Coding: Women's Cohort - September 2022
 
