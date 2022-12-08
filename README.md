@@ -1,6 +1,6 @@
 # EyeMovementExercise
  <html>
-<img src = eyes_github.png" width= "300"/>
+<img src = "eyes_github.png" width= "300"/>
 </html>
 
 Javascript Eye Movement
